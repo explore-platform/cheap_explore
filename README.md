@@ -158,4 +158,8 @@ Run the file `QuickTest.py` for an example with the evolution of iron, and `Exam
 1. Palicio et al. (2023, accepted) [P23]: https://ui.adsabs.harvard.edu/abs/2023arXiv230400042P/abstract
 2. Matteucci (2021): https://ui.adsabs.harvard.edu/abs/2021A%26ARv..29....5M/abstract
 3. Vincenzo et al. (2017): https://ui.adsabs.harvard.edu/abs/2017MNRAS.466.2939V/abstract
-4. The table with the numeric values of the parameters of the DTD fitting (Table 1 in P23) is available at CDS with larger decimal precision than the printed version: https://cdsarc.cds.unistra.fr/viz-bin/cat/J/A+A/678/A61#/browse 
+4. The table with the numeric values of the parameters of the DTD fitting (Table 1 in P23) is available at CDS with larger decimal precision than the printed version: https://cdsarc.cds.unistra.fr/viz-bin/cat/J/A+A/678/A61#/browse
+
+## 5. Acknowledgements
+
+This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No 101004214. 
